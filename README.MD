@@ -4,7 +4,7 @@
 
 ## ✨ Estudiante  
 - **Nombre:** Gutierrez, Natalia Valeria*  
-- **Comisión:** M2025-8 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Comisión:** M2025-8 
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
